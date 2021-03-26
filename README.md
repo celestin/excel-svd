@@ -24,17 +24,17 @@ example :
 2 sheets inside
 (1) platform 
 
-![platform, cpu definition](https://github.com/neojou/excel-svd/blob/master/doc/cmsis-0.png)
+![platform, cpu definition](https://github.com/celestin/excel-svd/blob/master/doc/cmsis-0.png)
 
 (2) peripheral
 
     - Timer
     
-![peripheral, timer](https://github.com/neojou/excel-svd/blob/master/doc/cmsis-1.png)
+![peripheral, timer](https://github.com/celestin/excel-svd/blob/master/doc/cmsis-1.png)
     
     - register
     
-![peripheral, timer](https://github.com/neojou/excel-svd/blob/master/doc/cmsis-2.png)
+![peripheral, timer](https://github.com/celestin/excel-svd/blob/master/doc/cmsis-2.png)
     
 
 ## Test Run 
